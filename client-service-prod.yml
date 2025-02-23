@@ -3,6 +3,6 @@ server:
     9999
 spring:  
   application:    
-    name: config-repo  
+    name: client-service  
 my:    
   greeting: helloworld client service prod
