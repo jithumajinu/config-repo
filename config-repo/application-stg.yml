@@ -5,4 +5,4 @@ spring:
   application:    
     name: config-repo  
 my:    
-  greeting: helloworld from config server dev
+  greeting: helloworld from config server stg
